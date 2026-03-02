@@ -1,7 +1,7 @@
 # 📊 Retail Performance Intelligence – Power BI (End-to-End Analytics Project)
 
 **Dashboard URL:** [Click Here](https://shorturl.at/nk2dO)  
-**Screenshots:** [Click Here](https://shorturl.at/nk2dO)  
+**Screenshots:** [Click Here](https://shorturl.at/crv3P)  
 **Tool:** Microsoft Power BI  
 **Dataset:** AdventureWorks 2019 OLTP  
 **Focus Areas:** Sales Performance | Customer Retention | Inventory Optimization  
@@ -136,4 +136,5 @@ This simulates cross-functional business intelligence reporting across sales, cu
 ## 👤 Author
 
 **Aslam PP**  
+
 Power BI | MS SQL | Data Analytics  
