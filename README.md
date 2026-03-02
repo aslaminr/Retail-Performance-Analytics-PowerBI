@@ -109,7 +109,7 @@ All measures built using DAX with context-aware logic.
 
 ## 🛠 Skills Demonstrated
 
-- Power BI Data Modeling (Star Schema)
+- Power BI Data Modeling (Star Schema) | [Click Here for screenshot](https://shorturl.at/oGmvJ)
 - Advanced DAX (Cohort logic, context transition, segmentation)
 - Business KPI Design
 - Inventory Efficiency Analysis
@@ -138,4 +138,5 @@ This simulates cross-functional business intelligence reporting across sales, cu
 **Aslam PP**  
 
 Power BI | MS SQL | Data Analytics  
+
 
