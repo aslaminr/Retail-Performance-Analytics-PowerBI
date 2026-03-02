@@ -39,7 +39,7 @@ The objective was not to build decorative dashboards, but to answer operational 
 The report consists of three structured analytical layers:
 
 ### 🔹 Sales Performance Dashboard
-- Revenue trend analysis (MoM / YoY logic)
+- Revenue trend analysis (Quarter/ Year logic)
 - Category and territory contribution
 - Growth diagnostics
 - Performance segmentation
@@ -85,7 +85,7 @@ The report consists of three structured analytical layers:
 ## 📊 Core Metrics Implemented
 
 - Total Revenue
-- YoY & MoM Growth %
+- Quarterly & Yearly Growth %
 - Retention %
 - Customer Lifetime Sales
 - Average Purchase Frequency
@@ -138,3 +138,4 @@ This simulates cross-functional business intelligence reporting across sales, cu
 **Aslam PP**  
 
 Power BI | MS SQL | Data Analytics  
+
